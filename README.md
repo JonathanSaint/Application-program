@@ -1,8 +1,8 @@
-#Food Delivery Service App
+# Food Delivery Service App
 
 A React Native mobile application for ordering food with real-time tracking, secure payments, and a smooth user experience.
 
-##Features
+## Features
 
 ✔️ User authentication (Login / Register)
 ✔️ Browse restaurants & food categories
@@ -14,7 +14,7 @@ A React Native mobile application for ordering food with real-time tracking, sec
 ✔️ Push notifications (Firebase)
 ✔️ Admin panel (optional)
 
-##Tech Stack
+## Tech Stack
 Technology	Purpose
 React Native	Frontend
 Redux / Context API	State management
@@ -23,11 +23,11 @@ MongoDB / Firebase	Database
 Stripe / PayPal	Payment gateway
 Google Maps API	Order location tracking
 # Installation
-##Clone the repository
+## Clone the repository
 git clone https://github.com/JonathanSaint/Application-program.git
 cd Application-program
 
-##Install dependencies
+## Install dependencies
 npm install
 # or
 yarn install
@@ -87,7 +87,7 @@ Add your app screenshots here
 ![Cart Screen](./screenshots/cart.jpg)
 ![Order Tracking](./screenshots/tracking.jpg)
 
-#Contributing
+# Contributing
 
 Pull requests are welcome!
 If you’d like to improve this project:
