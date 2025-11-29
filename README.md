@@ -79,9 +79,9 @@ npm test
 # or
 yarn test
 
-# Screenshots
+# Screenshots.
 
-Add your app screenshots here
+Add your app screenshots here.
 
 ![Home Screen](./screenshots/home.jpg)
 ![Cart Screen](./screenshots/cart.jpg)
