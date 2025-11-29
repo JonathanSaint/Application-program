@@ -105,6 +105,6 @@ This project is licensed under the MIT License – feel free to use and modify i
 
 If you have questions or suggestions, feel free to reach out:
 
-# Email: your-email@example.com
+# Email: jarinda086@gmail.com
 
 # Portfolio: yourwebsite.com
