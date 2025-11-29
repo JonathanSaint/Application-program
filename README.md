@@ -1,6 +1,6 @@
 # Food Delivery Service App
 
-A React Native mobile application for ordering food with real-time tracking, secure payments, and a smooth user experience.
+A React Native mobile application for ordering food with real-time tracking, secure payments, and a smooth user experience
 
 ## Features
 
